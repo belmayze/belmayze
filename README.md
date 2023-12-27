@@ -1,4 +1,13 @@
-### Hi there 👋
+## PROGRAMIG
+![C++](https://img.shields.io/badge/-C++-blue.svg?logo=cplusplus&style=flat)
+![C#](https://img.shields.io/badge/-C%23-7C4785.svg?logo=csharp&style=flat)
+![Ruby](https://img.shields.io/badge/-Ruby-A22422.svg?logo=csharp&style=flat)
+![Python](https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat)
+![HTML5](https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat)
+![JavaScript](https://img.shields.io/badge/Javascript-333.svg?logo=javascript&style=flat)
+![PHP](https://img.shields.io/badge/PHP-ccc.svg?logo=php&style=flat)
+
 
 <!--
 **belmayze/belmayze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
