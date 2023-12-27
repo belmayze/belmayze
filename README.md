@@ -11,7 +11,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat)
 ### Graphics
-![OpenGL](https://img.shields.io/badge/-OpenGL-black.svg?logo=opengl&style=flat)
+![OpenGL](https://img.shields.io/badge/-OpenGL-333.svg?logo=opengl&style=flat)
 ![DirectX12](https://img.shields.io/badge/-DirectX12-8FB327.svg?logo=microsoft&style=flat)
 
 
